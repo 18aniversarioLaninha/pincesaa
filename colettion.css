@@ -39,15 +39,15 @@ footer {
 }
 
 .quadradinho1 {
-    background-image: url("../imagens/c1.png");
+    background-image: url("/imagens/c1.png");
 }
 
 .quadradinho2 {
-    background-image: url("../imagens/ozzy.png"); 
+    background-image: url("/imagens/ozzy.png"); 
 }
 
 .quadradinho3 {
-    background-image: url("../imagens/c3o.png");
+    background-image: url("/imagens/c3o.png");
 }
 
 h3 {
@@ -61,7 +61,6 @@ h3 {
     border-radius: 5px;
 }
 
-
 #iron {
     background-color: rgba(0, 0, 255, 0.89);
     border-radius: 5px;
@@ -72,6 +71,7 @@ h3 {
     color: rgb(214, 4, 4);
     background-color: rgb(241, 199, 12);
 }
+
 a {
     color: #fff;
     text-decoration: none;
